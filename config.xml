@@ -11,7 +11,7 @@
     Aplicacion que muestra tus coordenadas, latitud, altitud, etc
    </description>
    
-   <author href="https://build.phonegab.com" email="Hrhunter17x@gmail.com">
+   <author href="https://build.phonegap.com" email="Hrhunter17x@gmail.com">
     Gerardo Quintero Sanchez
    </author>
    
@@ -21,7 +21,7 @@
    <preference name="orientation" value="landscape"/>-->
    <preference name="target-device" value="universal"/>
    <preference name="fullscreen" value="true"/>
-   <preference name="andriod-installLocation" value="auto"/>
+   <preference name="android-installLocation" value="auto"/>
    <preference name="permissions" value="INTERNET"/>
    
    <!-- Plugins -->	
